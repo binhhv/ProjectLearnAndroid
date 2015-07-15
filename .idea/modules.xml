@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjectLearnAndroid.iml" filepath="$PROJECT_DIR$/ProjectLearnAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learneventbutton/learneventbutton.iml" filepath="$PROJECT_DIR$/learneventbutton/learneventbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnlifetime/learnlifetime.iml" filepath="$PROJECT_DIR$/learnlifetime/learnlifetime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnlistview/learnlistview.iml" filepath="$PROJECT_DIR$/learnlistview/learnlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnspinnerlistview/learnspinnerlistview.iml" filepath="$PROJECT_DIR$/learnspinnerlistview/learnspinnerlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learntoastdialog/learntoastdialog.iml" filepath="$PROJECT_DIR$/learntoastdialog/learntoastdialog.iml" />
+    </modules>
+  </component>
+</project>

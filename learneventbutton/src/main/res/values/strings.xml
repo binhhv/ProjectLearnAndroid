@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LearnEventButton</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_inline">InlineActivity</string>
+    <string name="title_activity_activity_listener">ActivityListenerActivity</string>
+    <string name="title_activity_listener">ListenerActivity</string>
+    <string name="title_activity_explicit">ExplicitActivity</string>
+    <string name="title_activity_subclassing">SubclassingActivity</string>
+</resources>
