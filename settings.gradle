@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 include ':app', ':learnlifetime', ':learneventbutton', ':learntoastdialog', ':learnlistview', ':learnspinnerlistview'
+=======
+include ':app', ':learnlifetime'
+>>>>>>> origin/master
